@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\bublina.png" />
+    <None Remove="img\clovek1.png" />
+    <None Remove="img\clovek2.png" />
+    <None Remove="img\clovek3.png" />
+    <None Remove="img\clovek4.png" />
+    <None Remove="img\clovek5.png" />
+    <None Remove="img\clovek6.png" />
+    <None Remove="img\clovek7.png" />
+    <None Remove="img\clovek8.png" />
+    <None Remove="img\clovek9.png" />
+    <None Remove="img\hrnek.png" />
+    <None Remove="img\kafe-capuccino.png" />
+    <None Remove="img\kafe-espresso_macchiato.png" />
+    <None Remove="img\kafe-espresso_se_slehackou.png" />
+    <None Remove="img\kafe-espresso_s_mlekem.png" />
+    <None Remove="img\kafe-ledova_kava.png" />
+    <None Remove="img\kafe-male_espresso.png" />
+    <None Remove="img\kafe-nezname.png" />
+    <None Remove="img\kavovar.png" />
+    <None Remove="img\konvicka.png" />
+    <None Remove="img\logo.png" />
+    <None Remove="img\napenovac.png" />
+    <None Remove="img\pozadi.png" />
+    <None Remove="img\pripravna.png" />
+    <None Remove="img\recepty.png" />
+    <None Remove="img\sklenice.png" />
+    <None Remove="img\suroviny-kafe.png" />
+    <None Remove="img\suroviny-led.png" />
+    <None Remove="img\suroviny-mleko.png" />
+    <None Remove="img\suroviny-slehacka.png" />
+    <None Remove="img\telefon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\bublina.png" />
+    <Resource Include="img\clovek1.png" />
+    <Resource Include="img\clovek2.png" />
+    <Resource Include="img\clovek3.png" />
+    <Resource Include="img\clovek4.png" />
+    <Resource Include="img\clovek5.png" />
+    <Resource Include="img\clovek6.png" />
+    <Resource Include="img\clovek7.png" />
+    <Resource Include="img\clovek8.png" />
+    <Resource Include="img\clovek9.png" />
+    <Resource Include="img\hrnek.png" />
+    <Resource Include="img\kafe-capuccino.png" />
+    <Resource Include="img\kafe-espresso_macchiato.png" />
+    <Resource Include="img\kafe-espresso_se_slehackou.png" />
+    <Resource Include="img\kafe-espresso_s_mlekem.png" />
+    <Resource Include="img\kafe-ledova_kava.png" />
+    <Resource Include="img\kafe-male_espresso.png" />
+    <Resource Include="img\kafe-nezname.png" />
+    <Resource Include="img\kavovar.png" />
+    <Resource Include="img\konvicka.png" />
+    <Resource Include="img\logo.png" />
+    <Resource Include="img\napenovac.png" />
+    <Resource Include="img\pozadi.png" />
+    <Resource Include="img\pripravna.png" />
+    <Resource Include="img\recepty.png" />
+    <Resource Include="img\sklenice.png" />
+    <Resource Include="img\suroviny-kafe.png" />
+    <Resource Include="img\suroviny-led.png" />
+    <Resource Include="img\suroviny-mleko.png" />
+    <Resource Include="img\suroviny-slehacka.png" />
+    <Resource Include="img\telefon.png" />
+  </ItemGroup>
+
+</Project>
